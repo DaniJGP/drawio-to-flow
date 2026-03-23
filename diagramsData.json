@@ -1,0 +1,3242 @@
+{
+  "diagrams": [
+    {
+      "id": "dLClbCNCOK9i6u5UYVJL",
+      "title": "Page-1",
+      "url": "page-1",
+      "nodes": [
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-3",
+          "data": {
+            "label": "Contabilidad"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 330.0
+          }
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-4",
+          "data": {
+            "label": "Comercio Exterior"
+          },
+          "position": {
+            "x": 130.0,
+            "y": 330.0
+          }
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-5",
+          "data": {
+            "label": "Control de Existencias"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 140.0
+          }
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-6",
+          "data": {
+            "label": "Finanzas y Tesorería"
+          },
+          "position": {
+            "x": 230.0,
+            "y": 560.0
+          }
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-7",
+          "data": {
+            "label": "Cuentas Corrientes Clientes"
+          },
+          "position": {
+            "x": 580.0,
+            "y": 630.0
+          }
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-8",
+          "data": {
+            "label": "Servicio Técnico"
+          },
+          "position": {
+            "x": 620.0,
+            "y": 330.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-9",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-4",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-10",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-4",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-11",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-4",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-12",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-5",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-13",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-3",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-14",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-5",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-15",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-8",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-16",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-4",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-17",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-6",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "z4Uu6chRJ4ZS5BdF_dgw-18",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-8",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eimc7DYSraLavWaeuds3-0",
+          "source": "z4Uu6chRJ4ZS5BdF_dgw-5",
+          "target": "z4Uu6chRJ4ZS5BdF_dgw-3",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "Mu85SHz-kz0JTKmhCr4w",
+      "title": "Page-2",
+      "url": "page-2",
+      "nodes": [
+        {
+          "id": "Me1yL4WvSxgTEG1Hb5cg-3",
+          "data": {
+            "label": "Sistema Corporativo"
+          },
+          "position": {
+            "x": 363.0,
+            "y": 348.0
+          }
+        },
+        {
+          "id": "Me1yL4WvSxgTEG1Hb5cg-5",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 363.0,
+            "y": 140.0
+          }
+        },
+        {
+          "id": "Me1yL4WvSxgTEG1Hb5cg-7",
+          "data": {
+            "label": "Casa Matriz Santiago"
+          },
+          "position": {
+            "x": 345.5,
+            "y": 563.0
+          }
+        },
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-1",
+          "data": {
+            "label": "Contrato 1"
+          },
+          "position": {
+            "x": 100.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-3",
+          "data": {
+            "label": "Contrato 2"
+          },
+          "position": {
+            "x": 100.0,
+            "y": 340.0
+          }
+        },
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-4",
+          "data": {
+            "label": "Contrato N"
+          },
+          "position": {
+            "x": 100.0,
+            "y": 490.0
+          }
+        },
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-5",
+          "data": {
+            "label": "Sucursal 1"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-6",
+          "data": {
+            "label": "Sucursal 2"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 340.0
+          }
+        },
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-7",
+          "data": {
+            "label": "Sucursal N"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 490.0
+          }
+        },
+        {
+          "id": "nOSndJI4zgo7zDhFIH4s-6",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 240.0,
+            "y": 360.0000000000001
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "Mut9Xe6NHg-ldVcla3-1-22",
+          "source": "nOSndJI4zgo7zDhFIH4s-6",
+          "target": "Mut9Xe6NHg-ldVcla3-1-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "-p0xA8a50ah2rtXlh-4Z-2",
+          "source": "Mut9Xe6NHg-ldVcla3-1-3",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "-p0xA8a50ah2rtXlh-4Z-3",
+          "source": "Mut9Xe6NHg-ldVcla3-1-4",
+          "target": "nOSndJI4zgo7zDhFIH4s-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "-p0xA8a50ah2rtXlh-4Z-10",
+          "source": null,
+          "target": "Mut9Xe6NHg-ldVcla3-1-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "-p0xA8a50ah2rtXlh-4Z-11",
+          "source": null,
+          "target": "Mut9Xe6NHg-ldVcla3-1-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "-p0xA8a50ah2rtXlh-4Z-12",
+          "source": "Mut9Xe6NHg-ldVcla3-1-7",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "-p0xA8a50ah2rtXlh-4Z-17",
+          "source": "Me1yL4WvSxgTEG1Hb5cg-5",
+          "target": "Me1yL4WvSxgTEG1Hb5cg-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "nOSndJI4zgo7zDhFIH4s-3",
+          "source": "Me1yL4WvSxgTEG1Hb5cg-3",
+          "target": "Me1yL4WvSxgTEG1Hb5cg-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "nOSndJI4zgo7zDhFIH4s-4",
+          "source": "Me1yL4WvSxgTEG1Hb5cg-3",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "nOSndJI4zgo7zDhFIH4s-5",
+          "source": "Me1yL4WvSxgTEG1Hb5cg-3",
+          "target": "nOSndJI4zgo7zDhFIH4s-6",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "YuH35kmqZhDGX6EmSj3X",
+      "title": "Page-3",
+      "url": "page-3",
+      "nodes": [
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-7",
+          "data": {
+            "label": "Sistema de Existencias"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 240.0
+          }
+        },
+        {
+          "id": "3aUL-bTZJLklKHQ1xynk-1",
+          "data": {
+            "label": "Agente de Aduanas"
+          },
+          "position": {
+            "x": 90.0,
+            "y": 530.0
+          }
+        },
+        {
+          "id": "3aUL-bTZJLklKHQ1xynk-2",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 240.0
+          }
+        },
+        {
+          "id": "3aUL-bTZJLklKHQ1xynk-3",
+          "data": {
+            "label": "Sistema de Tesorería"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 425.0
+          }
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-2",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 90.0,
+            "y": 359.0
+          }
+        },
+        {
+          "id": "ZNOK70zqsOXOCzCt1t09-1",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 270.0,
+            "y": 170.0
+          },
+          "type": "group",
+          "style": {
+            "width": 310.0,
+            "height": 510.0
+          }
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-6",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "parentId": "ZNOK70zqsOXOCzCt1t09-1",
+          "extent": "parent",
+          "expandParent": "true"
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-9",
+          "data": {
+            "label": "Importaciones"
+          },
+          "position": {
+            "x": 40.0,
+            "y": 40.0
+          },
+          "parentId": "ZNOK70zqsOXOCzCt1t09-1",
+          "extent": "parent",
+          "expandParent": "true"
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-11",
+          "data": {
+            "label": "Internación"
+          },
+          "position": {
+            "x": 40.0,
+            "y": 135.0
+          },
+          "parentId": "ZNOK70zqsOXOCzCt1t09-1",
+          "extent": "parent",
+          "expandParent": "true"
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-12",
+          "data": {
+            "label": "Pago a Proovedores"
+          },
+          "position": {
+            "x": 40.0,
+            "y": 230.0
+          },
+          "parentId": "ZNOK70zqsOXOCzCt1t09-1",
+          "extent": "parent",
+          "expandParent": "true"
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-13",
+          "data": {
+            "label": "Avisos de Exportación"
+          },
+          "position": {
+            "x": 40.0,
+            "y": 325.0
+          },
+          "parentId": "ZNOK70zqsOXOCzCt1t09-1",
+          "extent": "parent",
+          "expandParent": "true"
+        },
+        {
+          "id": "MFwfdxkB19Xllji6_4Rd-14",
+          "data": {
+            "label": "Informes de Gestion"
+          },
+          "position": {
+            "x": 40.0,
+            "y": 420.0
+          },
+          "parentId": "ZNOK70zqsOXOCzCt1t09-1",
+          "extent": "parent",
+          "expandParent": "true"
+        }
+      ],
+      "edges": [
+        {
+          "id": "qR7-RqUQCF94qz5Xie7N-2",
+          "source": "MFwfdxkB19Xllji6_4Rd-6",
+          "target": "3aUL-bTZJLklKHQ1xynk-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "3aUL-bTZJLklKHQ1xynk-5",
+          "source": "MFwfdxkB19Xllji6_4Rd-7",
+          "target": "MFwfdxkB19Xllji6_4Rd-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "3aUL-bTZJLklKHQ1xynk-6",
+          "source": "MFwfdxkB19Xllji6_4Rd-6",
+          "target": "3aUL-bTZJLklKHQ1xynk-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "XCYTGMqs8Pamrx7zMASS-3",
+          "source": "MFwfdxkB19Xllji6_4Rd-6",
+          "target": "MFwfdxkB19Xllji6_4Rd-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "3aUL-bTZJLklKHQ1xynk-7",
+          "source": "MFwfdxkB19Xllji6_4Rd-6",
+          "target": "3aUL-bTZJLklKHQ1xynk-3",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "q-je1u0TEOdHgveTbstS",
+      "title": "Page-4",
+      "url": "page-4",
+      "nodes": [
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-1",
+          "data": {
+            "label": "Aviso de Embarque"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 385.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-2",
+          "data": {
+            "label": "Facturas Proveedor"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 230.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-3",
+          "data": {
+            "label": "Proformas (pedidos)"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-4",
+          "data": {
+            "label": "Coberturas"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 530.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-5",
+          "data": {
+            "label": "Accesos"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 690.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-6",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 260.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-7",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 395.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-9",
+          "data": {
+            "label": "Agente de Aduanas"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 385.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-10",
+          "data": {
+            "label": "Banco"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 530.0
+          }
+        },
+        {
+          "id": "uqU4wDKOXkh2B0lpwfYJ-11",
+          "data": {
+            "label": "Seguros e indemnización"
+          },
+          "position": {
+            "x": 540.0,
+            "y": 530.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-6",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-6",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-1",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-3",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-2",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-2",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-3",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-1",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-5",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-4",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-7",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-1",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-8",
+          "source": null,
+          "target": "uqU4wDKOXkh2B0lpwfYJ-11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-9",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-11",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-10",
+          "source": "uqU4wDKOXkh2B0lpwfYJ-10",
+          "target": "uqU4wDKOXkh2B0lpwfYJ-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mUJOwpnoaCI_Q0ga7iVF-11",
+          "source": null,
+          "target": "uqU4wDKOXkh2B0lpwfYJ-9",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "BG9DOl0MDrjkY3p1TlvF",
+      "title": "Page-5",
+      "url": "page-5",
+      "nodes": [
+        {
+          "id": "fjKVOBH6jaSjHu3HDgey-1",
+          "data": {
+            "label": "Aviso de Exportación"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 260.0
+          }
+        },
+        {
+          "id": "fjKVOBH6jaSjHu3HDgey-2",
+          "data": {
+            "label": "Control de Retornos"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 500.0
+          }
+        },
+        {
+          "id": "fjKVOBH6jaSjHu3HDgey-3",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 490.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "fjKVOBH6jaSjHu3HDgey-4",
+          "source": "fjKVOBH6jaSjHu3HDgey-1",
+          "target": "fjKVOBH6jaSjHu3HDgey-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fjKVOBH6jaSjHu3HDgey-5",
+          "source": "fjKVOBH6jaSjHu3HDgey-2",
+          "target": "fjKVOBH6jaSjHu3HDgey-3",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "nIEgoGN7LWvHpfHSH-gY",
+      "title": "Page-6",
+      "url": "page-6",
+      "nodes": [],
+      "edges": []
+    },
+    {
+      "id": "kuhDP0S0Oe0C3y6B9E3G",
+      "title": "Page-7",
+      "url": "page-7",
+      "nodes": [
+        {
+          "id": "i6L4pcpddhlV8_F9HrVk-1",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 360.0,
+            "y": 120.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-1",
+          "data": {
+            "label": "Cuentas Corrientes"
+          },
+          "position": {
+            "x": 420.0,
+            "y": 160.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-2",
+          "data": {
+            "label": "Pagos a Proveedores"
+          },
+          "position": {
+            "x": 420.0,
+            "y": 256.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-3",
+          "data": {
+            "label": "Emisión de Cheques"
+          },
+          "position": {
+            "x": 420.0,
+            "y": 352.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-4",
+          "data": {
+            "label": "Conciliación Bancaria"
+          },
+          "position": {
+            "x": 420.0,
+            "y": 448.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-5",
+          "data": {
+            "label": "Presupuresto de Caja"
+          },
+          "position": {
+            "x": 420.0,
+            "y": 544.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-6",
+          "data": {
+            "label": "Inversiones"
+          },
+          "position": {
+            "x": 420.0,
+            "y": 640.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-7",
+          "data": {
+            "label": "Sistema de Comercio Exterior"
+          },
+          "position": {
+            "x": 120.0,
+            "y": 190.0
+          }
+        },
+        {
+          "id": "spIxJGPfNO8eoy3tZvgJ-8",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 120.0,
+            "y": 375.0
+          }
+        },
+        {
+          "id": "aTUirwNBz_zXUlC5ydIC-1",
+          "data": {
+            "label": "Banco"
+          },
+          "position": {
+            "x": 127.5,
+            "y": 570.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "F8LIn1myEXGDXAqDHD9E-2",
+          "source": "spIxJGPfNO8eoy3tZvgJ-7",
+          "target": "i6L4pcpddhlV8_F9HrVk-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "F8LIn1myEXGDXAqDHD9E-3",
+          "source": "spIxJGPfNO8eoy3tZvgJ-8",
+          "target": "i6L4pcpddhlV8_F9HrVk-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Dj4m9oZAQ0CJvwaOdc3p-1",
+          "source": "i6L4pcpddhlV8_F9HrVk-1",
+          "target": "aTUirwNBz_zXUlC5ydIC-1",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "vIsXk5OyKq3G00meYy_c",
+      "title": "Page-8",
+      "url": "page-8",
+      "nodes": [
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-1",
+          "data": {
+            "label": "Statement del Proveedor"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 170.0
+          }
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-2",
+          "data": {
+            "label": "Conciliación del Statement"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 385.0
+          }
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-3",
+          "data": {
+            "label": "Generación Comprobante Rebaja Pasivo"
+          },
+          "position": {
+            "x": 485.0,
+            "y": 580.0
+          }
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-4",
+          "data": {
+            "label": "Emisión del Payment Advice"
+          },
+          "position": {
+            "x": 245.0,
+            "y": 580.0
+          }
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-6",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 100.0,
+            "y": 385.0
+          }
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-7",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 200.0
+          }
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-8",
+          "data": {
+            "label": "Contabilidad Analítica (pasivo)"
+          },
+          "position": {
+            "x": 640.0,
+            "y": 385.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-9",
+          "source": "roy9fkb7Ind0U7nH3fpk-1",
+          "target": "roy9fkb7Ind0U7nH3fpk-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-12",
+          "source": "roy9fkb7Ind0U7nH3fpk-8",
+          "target": "roy9fkb7Ind0U7nH3fpk-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-13",
+          "source": "roy9fkb7Ind0U7nH3fpk-7",
+          "target": "roy9fkb7Ind0U7nH3fpk-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-14",
+          "source": "roy9fkb7Ind0U7nH3fpk-3",
+          "target": "roy9fkb7Ind0U7nH3fpk-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-15",
+          "source": "roy9fkb7Ind0U7nH3fpk-4",
+          "target": "roy9fkb7Ind0U7nH3fpk-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "roy9fkb7Ind0U7nH3fpk-17",
+          "source": "roy9fkb7Ind0U7nH3fpk-6",
+          "target": "roy9fkb7Ind0U7nH3fpk-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fSnNdlyxpEOJF3Sp632e-1",
+          "source": "roy9fkb7Ind0U7nH3fpk-4",
+          "target": "roy9fkb7Ind0U7nH3fpk-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fSnNdlyxpEOJF3Sp632e-2",
+          "source": "roy9fkb7Ind0U7nH3fpk-2",
+          "target": null,
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "Ee3tIABys7-S4saWmAsV",
+      "title": "Page-9",
+      "url": "page-9",
+      "nodes": [
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-1",
+          "data": {
+            "label": "Cuentas Corrientes"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 260.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-2",
+          "data": {
+            "label": "Emisión de Cheques"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 400.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-3",
+          "data": {
+            "label": "Pago a Proveedores"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 120.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-4",
+          "data": {
+            "label": "Conciliación Bancaria"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 540.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-5",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 90.0,
+            "y": 260.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-6",
+          "data": {
+            "label": "Presupuesto de Caja"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 260.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-7",
+          "data": {
+            "label": "Inversiones"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 420.0
+          }
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-8",
+          "data": {
+            "label": "Banco"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 740.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-9",
+          "source": "eDJBBnPk3Bin0vsdfwaz-1",
+          "target": "eDJBBnPk3Bin0vsdfwaz-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-12",
+          "source": "eDJBBnPk3Bin0vsdfwaz-3",
+          "target": "eDJBBnPk3Bin0vsdfwaz-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-14",
+          "source": "eDJBBnPk3Bin0vsdfwaz-1",
+          "target": "eDJBBnPk3Bin0vsdfwaz-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-16",
+          "source": "eDJBBnPk3Bin0vsdfwaz-2",
+          "target": "eDJBBnPk3Bin0vsdfwaz-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-17",
+          "source": "eDJBBnPk3Bin0vsdfwaz-2",
+          "target": "eDJBBnPk3Bin0vsdfwaz-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-18",
+          "source": "eDJBBnPk3Bin0vsdfwaz-4",
+          "target": "eDJBBnPk3Bin0vsdfwaz-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-19",
+          "source": "eDJBBnPk3Bin0vsdfwaz-5",
+          "target": "eDJBBnPk3Bin0vsdfwaz-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-20",
+          "source": "eDJBBnPk3Bin0vsdfwaz-1",
+          "target": "eDJBBnPk3Bin0vsdfwaz-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "eDJBBnPk3Bin0vsdfwaz-21",
+          "source": "eDJBBnPk3Bin0vsdfwaz-1",
+          "target": "eDJBBnPk3Bin0vsdfwaz-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "9WuCcOVY8m_kj2YY7jAL-5",
+          "source": "eDJBBnPk3Bin0vsdfwaz-8",
+          "target": "eDJBBnPk3Bin0vsdfwaz-4",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "FXal3jtNuYqaKu28LRo5",
+      "title": "Page-10",
+      "url": "page-10",
+      "nodes": [
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--1",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 280.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--2",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 280.0,
+            "y": 546.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--3",
+          "data": {
+            "label": "Sistema de Comercio Exterior"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 130.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--4",
+          "data": {
+            "label": "Sistema de Tesorería"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 240.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--5",
+          "data": {
+            "label": "Sistema de Cuentas Corrientes"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 360.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--6",
+          "data": {
+            "label": "Sistema de Existencias"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 130.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--7",
+          "data": {
+            "label": "Sistema de Servicio Técnico"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 290.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--9",
+          "data": {
+            "label": "Sistema de Comercio Exterior"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 580.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--10",
+          "data": {
+            "label": "Sistema de Cuentas Corrientes"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 680.0
+          }
+        },
+        {
+          "id": "J76e4tL2k0MAlIjcUFI--11",
+          "data": {
+            "label": "Sistema de Tesorería"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 600.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-1",
+          "data": {
+            "label": "Parámetros (plan cuotas, tipos comprobantes, etc.)"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 110.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-2",
+          "data": {
+            "label": "Cierres mensuales y anuales"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 187.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-3",
+          "data": {
+            "label": "Emisión de libros (diario, mayor, balance saldos, ventas, etc,)"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 263.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-4",
+          "data": {
+            "label": "Corrección monetaria(mensual, anual)"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 340.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-5",
+          "data": {
+            "label": "Partidas vivas"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 576.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-6",
+          "data": {
+            "label": "Consulta y modifiación de partidas"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 651.0
+          }
+        },
+        {
+          "id": "Us6TYizafSnpd7ctaLWP-7",
+          "data": {
+            "label": "Balance analítico"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 726.0
+          }
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-2",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 390.0,
+            "y": 430.0
+          }
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-3",
+          "data": {
+            "label": "CONTABILIDAD ANALÍTICA"
+          },
+          "position": {
+            "x": 290.0,
+            "y": 503.0
+          }
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-4",
+          "data": {
+            "label": "CONTABILIDAD GENERAL"
+          },
+          "position": {
+            "x": 290.0,
+            "y": 40.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-1",
+          "source": "J76e4tL2k0MAlIjcUFI--2",
+          "target": "Us6TYizafSnpd7ctaLWP-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-12",
+          "source": "J76e4tL2k0MAlIjcUFI--2",
+          "target": "J76e4tL2k0MAlIjcUFI--9",
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-5",
+          "source": "J76e4tL2k0MAlIjcUFI--3",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-6",
+          "source": "J76e4tL2k0MAlIjcUFI--4",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-7",
+          "source": "J76e4tL2k0MAlIjcUFI--5",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-8",
+          "source": "J76e4tL2k0MAlIjcUFI--7",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-9",
+          "source": "J76e4tL2k0MAlIjcUFI--6",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-11",
+          "source": null,
+          "target": "J76e4tL2k0MAlIjcUFI--11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "EvLTF_Szf6-n2mCftYL2-13",
+          "source": "J76e4tL2k0MAlIjcUFI--2",
+          "target": "J76e4tL2k0MAlIjcUFI--10",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "lhY9lnj5WfoSP60aSnSy",
+      "title": "Page-11",
+      "url": "page-11",
+      "nodes": [
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-1",
+          "data": {
+            "label": "Cliente"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 40.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-2",
+          "data": {
+            "label": "Ventas"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 180.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-3",
+          "data": {
+            "label": "Stock"
+          },
+          "position": {
+            "x": 210.0,
+            "y": 180.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-4",
+          "data": {
+            "label": "Confirmación de Venta"
+          },
+          "position": {
+            "x": 400.0,
+            "y": 180.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-5",
+          "data": {
+            "label": "Recolección en Bodega"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 180.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-6",
+          "data": {
+            "label": "Back Order"
+          },
+          "position": {
+            "x": 400.0,
+            "y": 320.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-7",
+          "data": {
+            "label": "Generación de Guía de Despacho"
+          },
+          "position": {
+            "x": 560.0,
+            "y": 320.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-8",
+          "data": {
+            "label": "Administación del Backorder"
+          },
+          "position": {
+            "x": 400.0,
+            "y": 450.0
+          }
+        },
+        {
+          "id": "fUVcfRLz70eWjxPzsnFf-9",
+          "data": {
+            "label": "Sucursal"
+          },
+          "position": {
+            "x": 480.0,
+            "y": 580.0
+          }
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-1",
+          "data": {
+            "label": "Genera Factura"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 440.0
+          }
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-2",
+          "data": {
+            "label": "Cuenta Corriente Cliente"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 580.0
+          }
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-3",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 480.0,
+            "y": 710.0
+          }
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-4",
+          "data": {
+            "label": "Transferencia"
+          },
+          "position": {
+            "x": 260.0,
+            "y": 560.0
+          }
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-5",
+          "data": {
+            "label": "Aviso de Entrada"
+          },
+          "position": {
+            "x": 180.0,
+            "y": 690.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-6",
+          "source": "i147CgCNwOzQ4FwlXKDh-4",
+          "target": "fUVcfRLz70eWjxPzsnFf-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-7",
+          "source": "i147CgCNwOzQ4FwlXKDh-5",
+          "target": "fUVcfRLz70eWjxPzsnFf-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-10",
+          "source": "i147CgCNwOzQ4FwlXKDh-3",
+          "target": "i147CgCNwOzQ4FwlXKDh-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-11",
+          "source": "fUVcfRLz70eWjxPzsnFf-3",
+          "target": "fUVcfRLz70eWjxPzsnFf-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-12",
+          "source": "fUVcfRLz70eWjxPzsnFf-4",
+          "target": "fUVcfRLz70eWjxPzsnFf-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-13",
+          "source": "fUVcfRLz70eWjxPzsnFf-1",
+          "target": "fUVcfRLz70eWjxPzsnFf-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-14",
+          "source": "fUVcfRLz70eWjxPzsnFf-2",
+          "target": "fUVcfRLz70eWjxPzsnFf-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-15",
+          "source": "fUVcfRLz70eWjxPzsnFf-4",
+          "target": "fUVcfRLz70eWjxPzsnFf-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-16",
+          "source": "fUVcfRLz70eWjxPzsnFf-6",
+          "target": "fUVcfRLz70eWjxPzsnFf-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-17",
+          "source": "fUVcfRLz70eWjxPzsnFf-8",
+          "target": "i147CgCNwOzQ4FwlXKDh-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-18",
+          "source": null,
+          "target": "fUVcfRLz70eWjxPzsnFf-9",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-19",
+          "source": "fUVcfRLz70eWjxPzsnFf-9",
+          "target": "i147CgCNwOzQ4FwlXKDh-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-20",
+          "source": "fUVcfRLz70eWjxPzsnFf-5",
+          "target": "i147CgCNwOzQ4FwlXKDh-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-21",
+          "source": "fUVcfRLz70eWjxPzsnFf-7",
+          "target": "i147CgCNwOzQ4FwlXKDh-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-22",
+          "source": "fUVcfRLz70eWjxPzsnFf-5",
+          "target": "fUVcfRLz70eWjxPzsnFf-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "i147CgCNwOzQ4FwlXKDh-24",
+          "source": "i147CgCNwOzQ4FwlXKDh-1",
+          "target": "i147CgCNwOzQ4FwlXKDh-2",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "a3ohXoE49qVcVSGCHV_A",
+      "title": "Page-12",
+      "url": "page-12",
+      "nodes": [
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-1",
+          "data": {
+            "label": "Ventas"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 40.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-2",
+          "data": {
+            "label": "Llamadas y Demandas"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 40.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-3",
+          "data": {
+            "label": "Caracterizar repuestos Valor F,M,SRetornables y no retornables"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 150.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-4",
+          "data": {
+            "label": "Stock"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 316.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-5",
+          "data": {
+            "label": "Transmisión Pedido"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 454.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-6",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 592.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-7",
+          "data": {
+            "label": "Embarque en Bodega"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 730.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-8",
+          "data": {
+            "label": "Cálculo de Mínimo y Máximo"
+          },
+          "position": {
+            "x": 460.0,
+            "y": 178.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-9",
+          "data": {
+            "label": "Pedido de Stock Sugerido"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 178.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-10",
+          "data": {
+            "label": "Informe Pedido Analista"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 316.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-11",
+          "data": {
+            "label": "Modificación a Pedido Sugerido"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 454.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-12",
+          "data": {
+            "label": "Confirmación de Pedido"
+          },
+          "position": {
+            "x": 460.0,
+            "y": 454.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-13",
+          "data": {
+            "label": "Aviso de Entrada"
+          },
+          "position": {
+            "x": 480.0,
+            "y": 730.0
+          }
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-18",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 420.0,
+            "y": 80.0
+          },
+          "type": "group",
+          "style": {
+            "width": 0.0,
+            "height": 276.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-14",
+          "source": "y6m3WvxkPJTYUa7otGCP-1",
+          "target": "y6m3WvxkPJTYUa7otGCP-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-15",
+          "source": "y6m3WvxkPJTYUa7otGCP-3",
+          "target": "y6m3WvxkPJTYUa7otGCP-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-16",
+          "source": "y6m3WvxkPJTYUa7otGCP-2",
+          "target": "y6m3WvxkPJTYUa7otGCP-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-19",
+          "source": "y6m3WvxkPJTYUa7otGCP-8",
+          "target": "y6m3WvxkPJTYUa7otGCP-9",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-20",
+          "source": "y6m3WvxkPJTYUa7otGCP-9",
+          "target": "y6m3WvxkPJTYUa7otGCP-10",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-21",
+          "source": "y6m3WvxkPJTYUa7otGCP-10",
+          "target": "y6m3WvxkPJTYUa7otGCP-11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-22",
+          "source": "y6m3WvxkPJTYUa7otGCP-11",
+          "target": "y6m3WvxkPJTYUa7otGCP-12",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-23",
+          "source": "y6m3WvxkPJTYUa7otGCP-12",
+          "target": "y6m3WvxkPJTYUa7otGCP-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-24",
+          "source": "y6m3WvxkPJTYUa7otGCP-5",
+          "target": "y6m3WvxkPJTYUa7otGCP-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-25",
+          "source": "y6m3WvxkPJTYUa7otGCP-6",
+          "target": "y6m3WvxkPJTYUa7otGCP-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "y6m3WvxkPJTYUa7otGCP-26",
+          "source": "y6m3WvxkPJTYUa7otGCP-7",
+          "target": "y6m3WvxkPJTYUa7otGCP-13",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "CSx4k9TI3g54MjDfVZWA",
+      "title": "Page-13",
+      "url": "page-13",
+      "nodes": [
+        {
+          "id": "99fibYhzcu94ihN_RhoS-1",
+          "data": {
+            "label": "Stock"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "99fibYhzcu94ihN_RhoS-2",
+          "data": {
+            "label": "Generación Planillas y Tarjetas de Conteo"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "99fibYhzcu94ihN_RhoS-3",
+          "data": {
+            "label": "Ingreso de Conteo"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "99fibYhzcu94ihN_RhoS-4",
+          "data": {
+            "label": "Generación Informe de Recuento"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 233.0
+          }
+        },
+        {
+          "id": "99fibYhzcu94ihN_RhoS-5",
+          "data": {
+            "label": "Revisión Ítems con Diferencia"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 385.0
+          }
+        },
+        {
+          "id": "99fibYhzcu94ihN_RhoS-6",
+          "data": {
+            "label": "Ajuste por Mermas y/o Excedentes"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 690.0
+          }
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-1",
+          "data": {
+            "label": "Inventario Aceptado"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 518.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-2",
+          "source": "99fibYhzcu94ihN_RhoS-6",
+          "target": "99fibYhzcu94ihN_RhoS-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-3",
+          "source": "99fibYhzcu94ihN_RhoS-1",
+          "target": "99fibYhzcu94ihN_RhoS-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-4",
+          "source": "99fibYhzcu94ihN_RhoS-2",
+          "target": "99fibYhzcu94ihN_RhoS-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-5",
+          "source": "99fibYhzcu94ihN_RhoS-3",
+          "target": "99fibYhzcu94ihN_RhoS-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-6",
+          "source": "99fibYhzcu94ihN_RhoS-4",
+          "target": "99fibYhzcu94ihN_RhoS-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-7",
+          "source": "99fibYhzcu94ihN_RhoS-5",
+          "target": "1PR1IdKQMsk7lv1r7db2-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "1PR1IdKQMsk7lv1r7db2-8",
+          "source": "1PR1IdKQMsk7lv1r7db2-1",
+          "target": "99fibYhzcu94ihN_RhoS-6",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "smwukDYrUvyyjy8HWzP2",
+      "title": "Page-14",
+      "url": "page-14",
+      "nodes": [
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-1",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 270.0,
+            "y": 180.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-2",
+          "data": {
+            "label": "Sistema de Comercio Exterior"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 240.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-3",
+          "data": {
+            "label": "Sistema de Servicio Técnico"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 500.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-4",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 240.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-5",
+          "data": {
+            "label": "Sistema de Existencias"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 500.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-6",
+          "data": {
+            "label": "Importación Directa"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-8",
+          "data": {
+            "label": "Facuración de Existencias"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 308.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-9",
+          "data": {
+            "label": "Facturación de Servicio Técnico"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 395.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-10",
+          "data": {
+            "label": "Documentos del Cliente"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 483.0
+          }
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-11",
+          "data": {
+            "label": "Balance de Clientes"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 570.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-12",
+          "source": "VxCF4uL6c9z2jf-ymP7k-2",
+          "target": "VxCF4uL6c9z2jf-ymP7k-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-13",
+          "source": "VxCF4uL6c9z2jf-ymP7k-3",
+          "target": "VxCF4uL6c9z2jf-ymP7k-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-14",
+          "source": "VxCF4uL6c9z2jf-ymP7k-4",
+          "target": "VxCF4uL6c9z2jf-ymP7k-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "VxCF4uL6c9z2jf-ymP7k-15",
+          "source": "VxCF4uL6c9z2jf-ymP7k-5",
+          "target": "VxCF4uL6c9z2jf-ymP7k-1",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "hUFxqU-V0mU4rXAXe_w7",
+      "title": "Page-15",
+      "url": "page-15",
+      "nodes": [
+        {
+          "id": "Nf06UTjcUz6rFpNV95Tc-1",
+          "data": {
+            "label": "Registro de Cuenta Corriente"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 300.0
+          }
+        },
+        {
+          "id": "Nf06UTjcUz6rFpNV95Tc-2",
+          "data": {
+            "label": "Emisión de Cartas de Cobranza"
+          },
+          "position": {
+            "x": 460.0,
+            "y": 300.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-2",
+          "data": {
+            "label": "Aplicación del Pago"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 300.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-4",
+          "data": {
+            "label": "Contabilización de la Cobranza"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 460.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-6",
+          "data": {
+            "label": "Actualización de la Cuenta Corriente"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 620.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-8",
+          "data": {
+            "label": "Adminitración del Crédito"
+          },
+          "position": {
+            "x": 270.0,
+            "y": 70.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-10",
+          "data": {
+            "label": "Facturación de Existencias"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 300.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-13",
+          "data": {
+            "label": "Facturación Servicio"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 160.0
+          }
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-14",
+          "data": {
+            "label": "Importación Directa"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 440.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-11",
+          "source": "Fd7FxQnj7YkYyHzyd0of-10",
+          "target": "Nf06UTjcUz6rFpNV95Tc-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-3",
+          "source": "Nf06UTjcUz6rFpNV95Tc-2",
+          "target": "Fd7FxQnj7YkYyHzyd0of-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-1",
+          "source": "Nf06UTjcUz6rFpNV95Tc-1",
+          "target": "Nf06UTjcUz6rFpNV95Tc-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-5",
+          "source": "Fd7FxQnj7YkYyHzyd0of-2",
+          "target": "Fd7FxQnj7YkYyHzyd0of-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-7",
+          "source": "Fd7FxQnj7YkYyHzyd0of-4",
+          "target": "Fd7FxQnj7YkYyHzyd0of-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-9",
+          "source": "Fd7FxQnj7YkYyHzyd0of-8",
+          "target": "Nf06UTjcUz6rFpNV95Tc-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-15",
+          "source": "Fd7FxQnj7YkYyHzyd0of-14",
+          "target": "Nf06UTjcUz6rFpNV95Tc-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "Fd7FxQnj7YkYyHzyd0of-16",
+          "source": "Fd7FxQnj7YkYyHzyd0of-13",
+          "target": "Nf06UTjcUz6rFpNV95Tc-1",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "SzO9My2KrWSu5BIdtZA1",
+      "title": "Page-16",
+      "url": "page-16",
+      "nodes": [
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-2",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 77.5,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-3",
+          "data": {
+            "label": "Stock"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-5",
+          "data": {
+            "label": "Venta a Cliente"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 200.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-7",
+          "data": {
+            "label": "Devolución CORE Cliente"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 320.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-9",
+          "data": {
+            "label": "Evaluación CORE (Full o Partial)"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 440.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-11",
+          "data": {
+            "label": "ReparaciónServicio Técnico CORE"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 560.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-13",
+          "data": {
+            "label": "Asignación Repuestos y Mano de Obra"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 680.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-15",
+          "data": {
+            "label": "Facturación Interna Armado"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 560.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-17",
+          "data": {
+            "label": "Aviso de Entrada"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 440.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-19",
+          "data": {
+            "label": "Costeo Total Factura"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 440.0
+          }
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-23",
+          "data": {
+            "label": "Contabilidad"
+          },
+          "position": {
+            "x": 365.0,
+            "y": 680.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-4",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-2",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-6",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-3",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-8",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-5",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-10",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-7",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-9",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-12",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-9",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-14",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-11",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-13",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-16",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-15",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-23",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-18",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-15",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-17",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-22",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-19",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-17",
+          "type": "smoothstep"
+        },
+        {
+          "id": "MLOa6eh-DJ8S61Ch7mxz-25",
+          "source": "MLOa6eh-DJ8S61Ch7mxz-13",
+          "target": "MLOa6eh-DJ8S61Ch7mxz-15",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "cx-ksrp5goaQ-JhwNlB_",
+      "title": "Page-17",
+      "url": "page-17",
+      "nodes": [
+        {
+          "id": "jkq9SQoT_m2UOt9-U_8k-1",
+          "data": {
+            "label": "Sistema de Existencias"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 200.0
+          }
+        },
+        {
+          "id": "jkq9SQoT_m2UOt9-U_8k-2",
+          "data": {
+            "label": "Sistema de Contabilidad"
+          },
+          "position": {
+            "x": 630.0,
+            "y": 200.0
+          }
+        },
+        {
+          "id": "jkq9SQoT_m2UOt9-U_8k-3",
+          "data": {
+            "label": ""
+          },
+          "position": {
+            "x": 270.0,
+            "y": 140.0
+          }
+        },
+        {
+          "id": "jkq9SQoT_m2UOt9-U_8k-4",
+          "data": {
+            "label": "Cliente"
+          },
+          "position": {
+            "x": 90.0,
+            "y": 470.0
+          }
+        },
+        {
+          "id": "jkq9SQoT_m2UOt9-U_8k-5",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 637.5,
+            "y": 423.0
+          }
+        },
+        {
+          "id": "9zJLCKqAtsgxcbRIIIkc-1",
+          "data": {
+            "label": "Órdenes de Trabajo"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 180.0
+          }
+        },
+        {
+          "id": "9zJLCKqAtsgxcbRIIIkc-2",
+          "data": {
+            "label": "Cotización y/o Presupuesto"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 266.0
+          }
+        },
+        {
+          "id": "9zJLCKqAtsgxcbRIIIkc-3",
+          "data": {
+            "label": "Garantías"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 352.0
+          }
+        },
+        {
+          "id": "9zJLCKqAtsgxcbRIIIkc-4",
+          "data": {
+            "label": "Facturación"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 438.0
+          }
+        },
+        {
+          "id": "9zJLCKqAtsgxcbRIIIkc-5",
+          "data": {
+            "label": "Contratos"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 524.0
+          }
+        },
+        {
+          "id": "9zJLCKqAtsgxcbRIIIkc-6",
+          "data": {
+            "label": "Remanufacturados"
+          },
+          "position": {
+            "x": 310.0,
+            "y": 610.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "XtFnHjNohwjTj0vqoXeJ-1",
+          "source": "jkq9SQoT_m2UOt9-U_8k-1",
+          "target": "jkq9SQoT_m2UOt9-U_8k-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "XtFnHjNohwjTj0vqoXeJ-2",
+          "source": "jkq9SQoT_m2UOt9-U_8k-4",
+          "target": "jkq9SQoT_m2UOt9-U_8k-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "XtFnHjNohwjTj0vqoXeJ-3",
+          "source": "jkq9SQoT_m2UOt9-U_8k-5",
+          "target": "9zJLCKqAtsgxcbRIIIkc-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "XtFnHjNohwjTj0vqoXeJ-4",
+          "source": "jkq9SQoT_m2UOt9-U_8k-3",
+          "target": "jkq9SQoT_m2UOt9-U_8k-2",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "2JvFjU4l0qpjU0wQFZCy",
+      "title": "Page-18",
+      "url": "page-18",
+      "nodes": [
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-1",
+          "data": {
+            "label": "Abrir Orden de Trabajo"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-2",
+          "data": {
+            "label": "Transferir Repuestos a Orden de Trabajo"
+          },
+          "position": {
+            "x": 233.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-4",
+          "data": {
+            "label": "Stock"
+          },
+          "position": {
+            "x": 385.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-6",
+          "data": {
+            "label": "Recolección en Bodega"
+          },
+          "position": {
+            "x": 498.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-8",
+          "data": {
+            "label": "Cerrar Orden de Trabajo"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-1",
+          "data": {
+            "label": "Cotización"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-3",
+          "data": {
+            "label": "Backorder"
+          },
+          "position": {
+            "x": 233.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-4",
+          "data": {
+            "label": "Factura"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-6",
+          "data": {
+            "label": "Asignación de Mano de Obra y Misceláneos"
+          },
+          "position": {
+            "x": 498.0,
+            "y": 220.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-8",
+          "data": {
+            "label": "Cuenta Corriente Clientes"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 360.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-10",
+          "data": {
+            "label": "Garantías"
+          },
+          "position": {
+            "x": 540.0,
+            "y": 480.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-13",
+          "data": {
+            "label": "Sucursal"
+          },
+          "position": {
+            "x": 233.0,
+            "y": 490.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-15",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 90.0,
+            "y": 490.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-19",
+          "data": {
+            "label": "TransferenciaRepuestos a Sucursal"
+          },
+          "position": {
+            "x": 340.0,
+            "y": 530.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-22",
+          "data": {
+            "label": "Aviso de Entrada"
+          },
+          "position": {
+            "x": 233.0,
+            "y": 650.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-23",
+          "data": {
+            "label": "Administración de Backorder"
+          },
+          "position": {
+            "x": 233.0,
+            "y": 360.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-32",
+          "data": {
+            "label": "Reclamo según Código de Garantía"
+          },
+          "position": {
+            "x": 540.0,
+            "y": 580.0
+          }
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-34",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 540.0,
+            "y": 690.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-3",
+          "source": "mmjpJY0vOBybfVe_x2-S-1",
+          "target": "mmjpJY0vOBybfVe_x2-S-2",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-2",
+          "source": "fngoTmxsCku7J9nzaNI9-1",
+          "target": "mmjpJY0vOBybfVe_x2-S-1",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-5",
+          "source": "mmjpJY0vOBybfVe_x2-S-2",
+          "target": "mmjpJY0vOBybfVe_x2-S-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-7",
+          "source": "mmjpJY0vOBybfVe_x2-S-4",
+          "target": "mmjpJY0vOBybfVe_x2-S-6",
+          "type": "smoothstep"
+        },
+        {
+          "id": "mmjpJY0vOBybfVe_x2-S-9",
+          "source": "mmjpJY0vOBybfVe_x2-S-6",
+          "target": "mmjpJY0vOBybfVe_x2-S-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-5",
+          "source": "mmjpJY0vOBybfVe_x2-S-8",
+          "target": "fngoTmxsCku7J9nzaNI9-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-24",
+          "source": "fngoTmxsCku7J9nzaNI9-3",
+          "target": "fngoTmxsCku7J9nzaNI9-23",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-9",
+          "source": "fngoTmxsCku7J9nzaNI9-4",
+          "target": "fngoTmxsCku7J9nzaNI9-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-11",
+          "source": "fngoTmxsCku7J9nzaNI9-4",
+          "target": "fngoTmxsCku7J9nzaNI9-10",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-33",
+          "source": "fngoTmxsCku7J9nzaNI9-10",
+          "target": "fngoTmxsCku7J9nzaNI9-32",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-12",
+          "source": "mmjpJY0vOBybfVe_x2-S-2",
+          "target": "fngoTmxsCku7J9nzaNI9-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-18",
+          "source": "fngoTmxsCku7J9nzaNI9-13",
+          "target": "fngoTmxsCku7J9nzaNI9-19",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-21",
+          "source": "fngoTmxsCku7J9nzaNI9-15",
+          "target": "fngoTmxsCku7J9nzaNI9-22",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-30",
+          "source": "fngoTmxsCku7J9nzaNI9-19",
+          "target": "mmjpJY0vOBybfVe_x2-S-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-25",
+          "source": "fngoTmxsCku7J9nzaNI9-23",
+          "target": "fngoTmxsCku7J9nzaNI9-15",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-26",
+          "source": "fngoTmxsCku7J9nzaNI9-23",
+          "target": "fngoTmxsCku7J9nzaNI9-13",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-27",
+          "source": "fngoTmxsCku7J9nzaNI9-6",
+          "target": "mmjpJY0vOBybfVe_x2-S-8",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-31",
+          "source": "fngoTmxsCku7J9nzaNI9-22",
+          "target": "mmjpJY0vOBybfVe_x2-S-4",
+          "type": "smoothstep"
+        },
+        {
+          "id": "fngoTmxsCku7J9nzaNI9-35",
+          "source": "fngoTmxsCku7J9nzaNI9-32",
+          "target": "fngoTmxsCku7J9nzaNI9-34",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "Vjtoo3iD3zoLAXnzTIT4",
+      "title": "Page-19",
+      "url": "page-19",
+      "nodes": [
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-1",
+          "data": {
+            "label": "Ajustes por Mermas y/o Excedentes"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 680.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-2",
+          "data": {
+            "label": "Costo por Embarque"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-3",
+          "data": {
+            "label": "Avisos de Entrada"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 240.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-6",
+          "data": {
+            "label": "Fábrica"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 160.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-7",
+          "data": {
+            "label": "Comercio Exterior"
+          },
+          "position": {
+            "x": 265.0,
+            "y": 160.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-9",
+          "data": {
+            "label": "Embarque"
+          },
+          "position": {
+            "x": 450.0,
+            "y": 160.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-11",
+          "data": {
+            "label": "Stock"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 400.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-13",
+          "data": {
+            "label": "Avisos de Entrada"
+          },
+          "position": {
+            "x": 450.0,
+            "y": 400.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-15",
+          "data": {
+            "label": "Facturas"
+          },
+          "position": {
+            "x": 265.0,
+            "y": 400.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-17",
+          "data": {
+            "label": "Compras Nacionales"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 400.0
+          }
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-19",
+          "data": {
+            "label": "Costo por Factura"
+          },
+          "position": {
+            "x": 265.0,
+            "y": 560.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-4",
+          "source": "5dAvHHWqR8iq1BZDwZ87-1",
+          "target": "5dAvHHWqR8iq1BZDwZ87-11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-12",
+          "source": "5dAvHHWqR8iq1BZDwZ87-3",
+          "target": "5dAvHHWqR8iq1BZDwZ87-11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-5",
+          "source": "5dAvHHWqR8iq1BZDwZ87-2",
+          "target": "5dAvHHWqR8iq1BZDwZ87-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-8",
+          "source": "5dAvHHWqR8iq1BZDwZ87-6",
+          "target": "5dAvHHWqR8iq1BZDwZ87-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-10",
+          "source": "5dAvHHWqR8iq1BZDwZ87-7",
+          "target": "5dAvHHWqR8iq1BZDwZ87-9",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-21",
+          "source": "5dAvHHWqR8iq1BZDwZ87-9",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-14",
+          "source": "5dAvHHWqR8iq1BZDwZ87-13",
+          "target": "5dAvHHWqR8iq1BZDwZ87-11",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-16",
+          "source": "5dAvHHWqR8iq1BZDwZ87-15",
+          "target": "5dAvHHWqR8iq1BZDwZ87-13",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-18",
+          "source": "5dAvHHWqR8iq1BZDwZ87-17",
+          "target": "5dAvHHWqR8iq1BZDwZ87-15",
+          "type": "smoothstep"
+        },
+        {
+          "id": "5dAvHHWqR8iq1BZDwZ87-20",
+          "source": "5dAvHHWqR8iq1BZDwZ87-15",
+          "target": "5dAvHHWqR8iq1BZDwZ87-19",
+          "type": "smoothstep"
+        }
+      ]
+    },
+    {
+      "id": "MRj3D6jMKnRH9rZf9wQO",
+      "title": "Page-20",
+      "url": "page-20",
+      "nodes": [
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-1",
+          "data": {
+            "label": "Facturación Diaria"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-2",
+          "data": {
+            "label": "Contabilidad"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 690.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-3",
+          "data": {
+            "label": "Generación de Asiento de Venta"
+          },
+          "position": {
+            "x": 240.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-5",
+          "data": {
+            "label": "Carga de Asiento"
+          },
+          "position": {
+            "x": 400.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-7",
+          "data": {
+            "label": "Contabilidad"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 80.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-10",
+          "data": {
+            "label": "Total Transacciones Mensuales"
+          },
+          "position": {
+            "x": 80.0,
+            "y": 310.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-12",
+          "data": {
+            "label": "Chequeos de Cierre de Existencias"
+          },
+          "position": {
+            "x": 240.0,
+            "y": 310.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-13",
+          "data": {
+            "label": "Cierre de Existencias"
+          },
+          "position": {
+            "x": 400.0,
+            "y": 310.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-14",
+          "data": {
+            "label": "Avisos de Entrada y su Costo Total + Facturas"
+          },
+          "position": {
+            "x": 400.0,
+            "y": 538.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-16",
+          "data": {
+            "label": "Mayor Auxiliar de Existencias"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 233.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-17",
+          "data": {
+            "label": "Generación de Asiento de Centralización"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 385.0
+          }
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-18",
+          "data": {
+            "label": "Carga de Asiento"
+          },
+          "position": {
+            "x": 650.0,
+            "y": 538.0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-4",
+          "source": "OojHP2TU3ga0jIXl1FxO-1",
+          "target": "OojHP2TU3ga0jIXl1FxO-3",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-6",
+          "source": "OojHP2TU3ga0jIXl1FxO-3",
+          "target": "OojHP2TU3ga0jIXl1FxO-5",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-8",
+          "source": "OojHP2TU3ga0jIXl1FxO-5",
+          "target": "OojHP2TU3ga0jIXl1FxO-7",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-9",
+          "source": "OojHP2TU3ga0jIXl1FxO-10",
+          "target": "OojHP2TU3ga0jIXl1FxO-12",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-11",
+          "source": "OojHP2TU3ga0jIXl1FxO-12",
+          "target": "OojHP2TU3ga0jIXl1FxO-13",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-15",
+          "source": "OojHP2TU3ga0jIXl1FxO-13",
+          "target": "OojHP2TU3ga0jIXl1FxO-14",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-20",
+          "source": "OojHP2TU3ga0jIXl1FxO-13",
+          "target": null,
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-19",
+          "source": "OojHP2TU3ga0jIXl1FxO-16",
+          "target": "OojHP2TU3ga0jIXl1FxO-17",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-21",
+          "source": "OojHP2TU3ga0jIXl1FxO-17",
+          "target": "OojHP2TU3ga0jIXl1FxO-18",
+          "type": "smoothstep"
+        },
+        {
+          "id": "OojHP2TU3ga0jIXl1FxO-22",
+          "source": "OojHP2TU3ga0jIXl1FxO-18",
+          "target": "OojHP2TU3ga0jIXl1FxO-2",
+          "type": "smoothstep"
+        }
+      ]
+    }
+  ]
+}
