@@ -1,3 +1,8 @@
-# Temp files created by draw.io
+# Data source files 
 *.drawio.bkp
+*.drawio
+*.xml
+
+# Output files
+*.json
 

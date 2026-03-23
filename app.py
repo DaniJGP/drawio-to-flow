@@ -128,6 +128,24 @@ def extract_edges(diagram):
         # extract id, source, target
         edge_id = cell.get("id")
         edge = {"id": edge_id, "source": source, "target": target, "type": "smoothstep"}
+        # extract style string to get extra data like arrow type
+        style_string = cell.get("style", "")
+        style_dict = dict(
+            item.split("=") for item in style_string.split(";") if "=" in item
+        )
+        # for now we only care if there are startArrow or endArrow (no type or size)
+        if style_dict.get("endArrow"):
+            edge["markerEnd"] = {
+                "type": "arrowclosed",
+                "width": 20,
+                "height": 20,
+            }
+        if style_dict.get("startArrow"):
+            edge["markerStart"] = {
+                "type": "arrowclosed",
+                "width": 20,
+                "height": 20,
+            }
         # append to edges list
         edges.append(edge)
     # return edges list
@@ -170,11 +188,11 @@ def write_json(data, filepath):
 
 def main():
     # call parse_drawio_xml("diagramas.xml")
-    data = parse_drawio_xml("logical-diagram.drawio.xml")
-    # write result to "diagramsData.json"
-    write_json(data, "diagramsData.json")
+    data = parse_drawio_xml("diagrams.xml")
+    # write result to "diagrams.json"
+    write_json(data, "diagrams.json")
     # print success message
-    print("Diagrams successfully written to diagramsData.json")
+    print("Diagrams successfully written to diagrams.json")
     return 1
 
 
