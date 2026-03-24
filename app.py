@@ -1,3 +1,4 @@
+import argparse
 import xml.etree.ElementTree as ET
 import html
 import re
@@ -186,14 +187,21 @@ def write_json(data, filepath):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def main():
-    # call parse_drawio_xml("diagramas.xml")
-    data = parse_drawio_xml("diagrams.xml")
-    # write result to "diagrams.json"
-    write_json(data, "diagrams.json")
-    # print success message
-    print("Diagrams successfully written to diagrams.json")
-    return 1
+def main(argv=None):
+    parser = argparse.ArgumentParser(description="Converts draw.io XML to JSON format for React Flow")
+    parser.add_argument("input", help="Draw.io input XML file")
+    parser.add_argument(
+        "output",
+        nargs="?",
+        default="out/diagrams.json",
+        help="JSON output file (default: out/diagrams.json)",
+    )
+    args = parser.parse_args(argv)
+
+    data = parse_drawio_xml(args.input)
+    write_json(data, args.output)
+    print(f"Written {args.output}")
+    return 0
 
 
 if __name__ == "__main__":

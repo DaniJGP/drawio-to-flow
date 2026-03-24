@@ -1,8 +1,21 @@
-# Data source files 
-*.drawio.bkp
-*.drawio
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+
+# Diagrams
+*.drawio.xml
 *.xml
 
-# Output files
-*.json
-
+# Tool outputs (generated)
+out/
+*.generated.json
